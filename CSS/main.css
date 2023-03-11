@@ -1,0 +1,15 @@
+.fi {
+    color: white !important;
+}
+
+p {
+    margin: 10px;
+    font-size: 20px;
+}
+
+#fi {
+    transition-duration: 1s;
+    color: black;
+    font-style: bold;
+    font-size: 40px;
+}
